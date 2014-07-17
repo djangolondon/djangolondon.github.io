@@ -11,4 +11,4 @@ Please share by sending through a Pull Request ( the dev way! :) )
 Meetups
 -----------------------------
 
-[17th July 2014](blob/master/meetups/17-July-2014.md)
+[17th July 2014](meetups/17-July-2014.md)
