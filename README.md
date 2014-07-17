@@ -7,6 +7,7 @@ The repository was created the 17th of July 2014.
 
 Please share by sending through a Pull Request ( the dev way! :) )
 
+![Django Pony](img/django-pony.jpg)
 
 Meetups
 -----------------------------
