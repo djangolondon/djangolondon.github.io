@@ -13,3 +13,5 @@ Meetups
 -----------------------------
 
 [17th July 2014](meetups/17-July-2014.md)
+
+[12th August 2014](meetups/12-August-2014.md)
