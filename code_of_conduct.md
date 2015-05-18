@@ -1,28 +1,23 @@
-London Django Meetup Code of Conduct
-====================================
+# London Django Meetup Code of Conduct
 
-Be awesome to each other
-------------------------
+## Be awesome to each other
 
-The London Django Meetup Group aims to provide fun, welcoming and professional
-environments so that diverse groups of people­- regardless of age, race, gender
-identity or expression, background, disability, appearance, sexuality, walk of
-life, or religion - can get together to learn from and be inspired by each
-other about all things related to Django, the high-level Python Web framework.
+The mission of [The London Django Meetup
+Group](http://www.meetup.com/The-London-Django-Meetup-Group/) is to provide
+fun, welcoming and professional environments so that diverse groups of people­-
+regardless of age, race, gender identity or expression, background, disability,
+appearance, sexuality, walk of life, or religion - can get together to learn
+from and be inspired by each other about all things related to Django, the
+high-level Python Web framework.
 
-.. pull-quote::
+The London Django Meetup Group asks all our members, speakers, volunteers,
+attendees and guests to adopt the following principles to help us with our
+mission. We are a diverse community. Sometimes this means we need to work
+harder to ensure we're creating an environment of trust and respect where all
+who come to participate feel comfortable and included. We value your
+participation and appreciate your help in realising this goal.
 
-    Not sure if we should write a 'Values Statement' - what are your thoughts?
-
-The London Django Meetup Group is committed to the ideals expressed in our
-Values Statement and ask all our members, speakers, volunteers, attendees and
-guests to adopt these principles. We are a diverse community. Sometimes this
-means we need to work harder to ensure we're creating an environment of trust
-and respect where all who come to participate feel comfortable and included. We
-value your participation and appreciate your help in realising this goal.
-
-Be respectful
-.............
+### Be respectful
 
 Respect yourself, and respect others. Be courteous to those around you. If
 someone indicates they don't wish to be photographed, respect that wish. If
@@ -30,8 +25,7 @@ someone indicates they would like to be left alone, let them be. Our meetup
 venues and online spaces may be shared with members of the public; please be
 considerate to all patrons of these locations.
 
-Be inclusive
-............
+### Be inclusive
 
 All presentation material should be suitable for people aged 12 and above. All
 public presentations are subject to this code of conduct and thus may not
@@ -49,13 +43,12 @@ If presenters are unsure whether their material is suitable, they are
 encouraged to show it to the meetup host or a meetup organiser before their
 session.
 
-Be aware
-........
+### Be aware
 
 We ask everyone to be aware that we will not tolerate intimidation, harassment,
 or any abusive, discriminatory or derogatory behaviour by anyone at any event
-or online. Complaints can be made to the `meetup organisers
-<http://www.meetup.com/The-London-Django-Meetup-Group/members/?op=leaders>`_
+or online. Complaints can be made to the [meetup
+organisers](http://www.meetup.com/The-London-Django-Meetup-Group/members/?op=leaders)
 either face to face at a meetup, or via the Meetup website. All complaints
 made to event organisers will remain confidential and be taken seriously. The
 complaint will be treated appropriately with discretion. Should event
@@ -68,8 +61,7 @@ organiser consider it appropriate, measures they may take include:
 - be prohibited from continuing to attend the event
 - have the incident reported to the appropriate authorities
 
-What does that mean for me?
-...........................
+### What does that mean for me?
 
 All participants, including event attendees and speakers must not engage in any
 intimidation, harassment, or abusive or discriminatory behaviour. Here are some
@@ -92,16 +84,15 @@ examples of behaviours which are not appropriate:
 
 **We want everyone to have a good time at our events**
 
-Questions?
-----------
+## Questions?
 
 If you're not sure about anything you've just read please contact the
-`Meetup organisers
-<http://www.meetup.com/The-London-Django-Meetup-Group/members/?op=leaders>`_ .
-You can message us through the `Meetup page
-<http://www.meetup.com/The-London-Django-Meetup-Group/>`_ .
+[Meetup
+organisers](http://www.meetup.com/The-London-Django-Meetup-Group/members/?op=leaders).
+You can message us through the [Meetup
+page](http://www.meetup.com/The-London-Django-Meetup-Group/).
 
-.. pull-quote::
+## Credits
 
-    Should we reference the source of the text?
-    `http://lcabythebay.org.au/code-of-conduct/`_
+The original version of this Code of Conduct was created by
+[linux.conf.au](http://lcabythebay.org.au/code-of-conduct/).
