@@ -1,5 +1,4 @@
-The-Django-London-Meetup-Group
-==============================
+# The London Django Meetup Group
 
 The DLMG repository is for the purpose of saving notes, links and content shared within each meetup.
 
@@ -9,8 +8,7 @@ Please share by sending through a Pull Request ( the dev way! :) )
 
 ![Django Pony](img/django-pony.jpg)
 
-Meetups
------------------------------
+## Past Meetups
 
 [17th July 2014](meetups/17-July-2014.md)
 
