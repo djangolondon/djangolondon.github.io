@@ -17,7 +17,7 @@ harder to ensure we're creating an environment of trust and respect where all
 who come to participate feel comfortable and included. We value your
 participation and appreciate your help in realising this goal.
 
-### Be respectful
+### Be Respectful
 
 Respect yourself, and respect others. Be courteous to those around you. If
 someone indicates they don't wish to be photographed, respect that wish. If
@@ -97,3 +97,5 @@ page](http://www.meetup.com/The-London-Django-Meetup-Group/).
 
 The original version of this Code of Conduct was created by
 [linux.conf.au](http://lcabythebay.org.au/code-of-conduct/).
+
+v1.0.1
