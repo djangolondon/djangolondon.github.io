@@ -1,10 +1,11 @@
 # The London Django Meetup Group
 
-The DLMG repository is for the purpose of saving notes, links and content shared within each meetup.
+This repository is for the purpose of saving notes, links and content shared at
+each meetup.
 
-The repository was created the 17th of July 2014.
+The repository was created 17th July 2014.
 
-Please share by sending through a Pull Request ( the dev way! :) )
+Please share by sending through a Pull Request.
 
 ![Django Pony](img/django-pony.jpg)
 
