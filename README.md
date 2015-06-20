@@ -11,6 +11,13 @@ Please share by sending through a Pull Request.
 
 ## Past Meetups
 
-[17th July 2014](meetups/17-July-2014.md)
+Most recent first.
 
-[12th August 2014](meetups/12-August-2014.md)
+### 2015
+
+* [Things I wish I'd known about Django - 9th June](meetups/2015-06-09.md)
+
+### 2014
+
+* [17th July 2014](meetups/17-July-2014.md)
+* [12th August 2014](meetups/12-August-2014.md)
