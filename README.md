@@ -15,6 +15,7 @@ Most recent first.
 
 ### 2015
 
+* [The London Django pub meetup - 14th July](meetups/2015-07-14.md)
 * [Things I wish I'd known about Django - 9th June](meetups/2015-06-09.md)
 
 ### 2014
