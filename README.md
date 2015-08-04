@@ -1,11 +1,12 @@
 # The London Django Meetup Group
 
-This repository is for the purpose of saving notes, links and content shared at
-each meetup.
+## Next Meetup: "Better Python, better Django"
 
-The repository was created 17th July 2014.
+Monday 18th August
 
-Please share by sending through a Pull Request.
+* [Meetup page (please sign up here)](http://www.meetup.com/The-London-Django-Meetup-Group/events/223938679/)
+* [Skills Matter page (please also sign up here)](https://skillsmatter.com/meetups/7248-london-django-august-2015-meetup)
+* [Schedule](meetups/2015-08-18.md)
 
 ![Django Pony](img/django-pony.jpg)
 
@@ -22,3 +23,9 @@ Most recent first.
 
 * [17th July 2014](meetups/17-July-2014.md)
 * [12th August 2014](meetups/12-August-2014.md)
+
+## Contribution
+
+Please share by sending through a Pull Request. All constructive contributions
+are very welcome. Please let us know if we've made a mistake or an omission by
+opening an Issue.
