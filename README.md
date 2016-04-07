@@ -6,9 +6,11 @@ Visit us at:
 
 * [Meetup][meetup]
 * [Skills Matter][skills-matter]
+* [Slack][slack]
 
 [meetup]: http://www.meetup.com/The-London-Django-Meetup-Group/
 [skills-matter]: https://skillsmatter.com/groups/10546-london-django-meetup-group
+[slack]: https://londondjangomeetup.herokuapp.com/
 
 ## Past Meetups
 
