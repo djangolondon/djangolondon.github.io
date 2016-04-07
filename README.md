@@ -26,6 +26,13 @@ Most recent first.
 
 * [12th August](meetups/2014-08-12.md)
 
+## Code of Conduct
+
+Our meetups are governed by a [Code of Conduct][code-of-conduct]. Please take a
+few minutes to read it.
+
+[code-of-conduct]: code_of_conduct.md
+
 ## Contribution
 
 Please share by sending through a Pull Request. All constructive contributions
