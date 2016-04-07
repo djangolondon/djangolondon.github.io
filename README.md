@@ -6,7 +6,7 @@ Most recent first.
 
 ### 2015
 
-* [December Django Meetup](meetups/2015-12-14.md)
+* [December Django Meetup - 14th December](meetups/2015-12-14.md)
 * [September Django Rain - 22nd September](meetups/2015-09-22.md)
 * [Better Python, Better Django - 18th August](meetups/2015-08-18.md)
 * [The London Django pub meetup - 14th July](meetups/2015-07-14.md)
@@ -14,8 +14,7 @@ Most recent first.
 
 ### 2014
 
-* [17th July 2014](meetups/17-July-2014.md)
-* [12th August 2014](meetups/12-August-2014.md)
+* [12th August](meetups/2014-08-12.md)
 
 ## Contribution
 
