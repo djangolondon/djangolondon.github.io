@@ -1,5 +1,15 @@
 # The London Django Meetup Group
 
+The official Github repo of The London Django Meetup Group.
+
+Visit us at:
+
+* [Meetup][meetup]
+* [Skills Matter][skills-matter]
+
+[meetup]: http://www.meetup.com/The-London-Django-Meetup-Group/
+[skills-matter]: https://skillsmatter.com/groups/10546-london-django-meetup-group
+
 ## Past Meetups
 
 Most recent first.
