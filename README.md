@@ -19,6 +19,7 @@ Most recent first.
 ### 2016
 
 * [April Django Meetup - 12th April](meetups/2016-04-12.md)
+* [March Django Meetup - 15th March](meetups/2016-03-15.md)
 
 ### 2015
 
