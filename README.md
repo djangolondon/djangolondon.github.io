@@ -16,6 +16,10 @@ Visit us at:
 
 Most recent first.
 
+### 2016
+
+* [April Django Meetup - 12th April](meetups/2016-04-12.md)
+
 ### 2015
 
 * [December Django Meetup - 14th December](meetups/2015-12-14.md)
