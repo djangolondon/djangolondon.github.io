@@ -20,6 +20,7 @@ Most recent first.
 
 * [April Django Meetup - 12th April](meetups/2016-04-12.md)
 * [March Django Meetup - 15th March](meetups/2016-03-15.md)
+* [Bring back the Django love - 16th February](meetups/2016-02-16.md)
 
 ### 2015
 
