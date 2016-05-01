@@ -9,6 +9,7 @@ url: 'http://www.djangolondon.com'
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 exclude:
     - README.md
     - Gemfile
