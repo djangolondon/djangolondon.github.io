@@ -14,7 +14,6 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - '*.sublime-project'
-    - organizers
 collections:
     meetups:
         output: true
