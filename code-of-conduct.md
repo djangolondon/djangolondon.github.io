@@ -1,14 +1,15 @@
-# London Django Meetup Code of Conduct
+---
+layout: default
+---
 
 ## Be Awesome to Each Other
 
-The mission of [The London Django Meetup
-Group](http://www.meetup.com/The-London-Django-Meetup-Group/) is to provide
-fun, welcoming and professional environments so that diverse groups of people -
-regardless of age, race, gender identity or expression, background, disability,
-appearance, sexuality, walk of life, or religion - can get together to learn
-from and be inspired by each other about all things related to Django, the
-high-level Python Web framework.
+The mission of [The London Django Meetup Group](http://djangolondon.github.io/)
+is to provide fun, welcoming and professional environments so that diverse
+groups of people - regardless of age, race, gender identity or expression,
+background, disability, appearance, sexuality, walk of life, or religion - can
+get together to learn from and be inspired by each other about all things
+related to Django, the high-level Python Web framework.
 
 The London Django Meetup Group asks all our members, speakers, volunteers,
 attendees and guests to adopt the following principles to help us with our
@@ -17,7 +18,7 @@ harder to ensure we're creating an environment of trust and respect where all
 who come to participate feel comfortable and included. We value your
 participation and appreciate your help in realising this goal.
 
-### Be Respectful
+## Be Respectful
 
 Respect yourself, and respect others. Be courteous to those around you. If
 someone indicates they don't wish to be photographed, respect that wish. If
@@ -25,7 +26,7 @@ someone indicates they would like to be left alone, let them be. Our meetup
 venues and online spaces may be shared with members of the public; please be
 considerate to all patrons of these locations.
 
-### Be Inclusive
+## Be Inclusive
 
 All presentation material should be suitable for people aged 12 and above. All
 public presentations are subject to this code of conduct and thus may not
@@ -43,7 +44,7 @@ If presenters are unsure whether their material is suitable, they are
 encouraged to show it to the meetup host or an organiser before their
 session.
 
-### Be Aware
+## Be Aware
 
 We ask everyone to be aware that we will not tolerate intimidation, harassment,
 or any abusive, discriminatory, or derogatory behaviour by anyone at any event,
@@ -62,7 +63,7 @@ it appropriate, the complainee may be:
 
 When necessary, an incident will be reported to the appropriate authorities.
 
-### What Does That Mean for Me?
+## What Does That Mean for Me?
 
 All participants, including event attendees and speakers, must not engage in any
 intimidation, harassment, or abusive or discriminatory behaviour. Here are some
