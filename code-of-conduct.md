@@ -4,7 +4,7 @@ layout: default
 
 ## Be Awesome to Each Other
 
-The mission of [The London Django Meetup Group](http://djangolondon.github.io/)
+The mission of [The London Django Meetup Group](http://www.djangolondon.com/)
 is to provide fun, welcoming and professional environments so that diverse
 groups of people - regardless of age, race, gender identity or expression,
 background, disability, appearance, sexuality, walk of life, or religion - can

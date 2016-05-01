@@ -3,7 +3,7 @@
 The official Github repo of The London Django Meetup Group.
 
 View the site at
-[http://djangolondon.github.io](http://djangolondon.github.io).
+[http://www.djangolondon.com](http://www.djangolondon.com).
 
 ## Contribution
 

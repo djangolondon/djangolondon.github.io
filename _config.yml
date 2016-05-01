@@ -5,7 +5,7 @@ description: >
     We meet on the 2nd Tuesday of every month to discuss Django, Python, the
     web, and related topics.
 baseurl: ''
-url: 'http://djangolondon.github.io'
+url: 'http://www.djangolondon.com'
 
 # Build settings
 markdown: kramdown
