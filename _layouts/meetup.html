@@ -31,10 +31,6 @@ layout: default
                 <p>{{ talk.description | markdownify }}</p>
             {% endif %}
 
-            {% if talk.html_description %}
-                {{ talk.html_description|safe }}
-            {% endif %}
-
             {% if talk.skills_matter or talk.slides or talk.blogpost %}
                 <ul>
                     {% if talk.skills_matter %}
