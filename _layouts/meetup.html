@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<article class="post">
+
+    <header class="post-header">
+        <h1 class="post-title">
+            {{ page.title }} -
+            <time>{{ page.date | date: "%d %B %Y" }}</time>
+        </h1>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+        {% if page.links %}
+            <h2>Links</h2>
+            <ul>
+                {% if page.links.meetup %}
+                    <li><a href="{{ page.links.meetup }}">Meetup.com</a></li>
+                {% endif %}
+            </ul>
+        {% endif %}
+
+        <h2>Talks</h2>
+        {% for talk in page.talks %}
+            <h3>{{ talk.title }} - {{ talk.speaker }}</h3>
+            {% if talk.html_description %}
+                {{ talk.html_description|safe }}
+            {% endif %}
+            <ul>
+                {% if talk.slides %}
+                    <li><a href="{{ talk.slides }}">Read the slides</a></li>
+                {% endif %}
+                {% if talk.blogpost %}
+                    <li><a href="{{ talk.blogpost }}">Read the blog post</a></li>
+                {% endif %}
+            </ul>
+        {% endfor %}
+        {{ content }}
+    </div>
+
+</article>

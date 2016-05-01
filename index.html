@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <p>{{ site.description }}</p>
+
+    <h2>Past Meetups</h2>
+
+    <ul>
+    {% for meetup in site.meetups %}
+        <li>
+            <a href="{{ meetup.url }}">
+                {{ meetup.title }} - {{ meetup.date | date: "%d %B %Y" }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+
+</div>

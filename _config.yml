@@ -1,0 +1,27 @@
+# Site settings
+title: The London Django Meetup Group
+email: ''
+description: >
+    We meet on the 2nd Tuesday of every month to discuss Django, Python, the
+    web, and related topics.
+baseurl: ''
+url: 'http://djangolondon.github.io'
+
+# Build settings
+markdown: kramdown
+exclude:
+    - README.md
+    - Gemfile
+    - Gemfile.lock
+    - '*.sublime-project'
+    - organizers
+collections:
+    meetups:
+        output: true
+        permalink: /meetups/:path/
+defaults:
+  - scope:
+        path: ""
+        type: meetups
+    values:
+        layout: meetup
