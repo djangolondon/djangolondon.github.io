@@ -27,10 +27,12 @@ Just run `docker-compose up -d` to get started
 
 ## Auto-build on save and live-reload
 
-Jekyll will build the site static files automatically as the source files are updated.
+Jekyll can build the site static files automatically as the source files are updated. To run Jekyll in auto-building mode run `guard -i`, alternatively just run `jekyll serve`.
+
+The Docker instance runs with auto-build enabled by default.
 
 If you want to manually build the project run `jekyll build` or if using Docker `docker-compose run app jekyll build`
 
-Live-reload is supported in this project, this means that, as the project updated, you don't have to constantly refresh the browser window.
+Live-reload is supported in this project, this means that, as the project is updated, you don't have to constantly refresh the browser window.
 
 To enable live-reloading in your browser [install the appropriate extension for your browser](http://livereload.com/extensions/#installing-sections)
