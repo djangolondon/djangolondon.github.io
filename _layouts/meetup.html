@@ -31,7 +31,7 @@ layout: default
                 <p>{{ talk.description | markdownify }}</p>
             {% endif %}
 
-            {% if talk.skills_matter or talk.slides or talk.blogpost %}
+            {% if talk.skills_matter or talk.slides or talk.blogpost or talk.code %}
                 <ul>
                     {% if talk.skills_matter %}
                         <li><a href="{{ talk.skills_matter }}">Watch on Skills Matter</a></li>
@@ -41,6 +41,9 @@ layout: default
                     {% endif %}
                     {% if talk.blogpost %}
                         <li><a href="{{ talk.blogpost }}">Read the blog post</a></li>
+                    {% endif %}
+                    {% if talk.code %}
+                        <li><a href="{{ talk.code }}">See the code</a></li>
                     {% endif %}
                 </ul>
             {% else %}
