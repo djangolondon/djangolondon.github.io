@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<article class="post">
+
+    <header class="post-header">
+        <h1 class="post-title">
+            {{ page.title }} -
+            <time>{{ page.date | date: "%-d %B %Y" }}</time>
+        </h1>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+        {% if page.links %}
+            <h2>Links</h2>
+            <ul>
+                {% if page.links.meetup %}
+                    <li><a href="{{ page.links.meetup }}">Meetup.com</a></li>
+                {% endif %}
+                {% if page.links.skills_matter %}
+                    <li><a href="{{ page.links.skills_matter }}">Skills Matter</a></li>
+                {% endif %}
+            </ul>
+        {% endif %}
+
+        <h2>Talks</h2>
+        {% if page.talks.size == 0 %}
+        <h3>No Talks :(</h3>
+        <p>Unfortunately this month there weren't any talks.</p>
+        {% endif %}
+        {% for talk in page.talks %}
+            <h3>{{ talk.title }} - {{ talk.speaker }}</h3>
+
+            {% if talk.description %}
+                <p>{{ talk.description | markdownify }}</p>
+            {% endif %}
+
+            {% if talk.skills_matter or talk.slides or talk.blogpost or talk.code %}
+                <ul>
+                    {% if talk.skills_matter %}
+                        <li><a href="{{ talk.skills_matter }}">Watch on Skills Matter</a></li>
+                    {% endif %}
+                    {% if talk.slides %}
+                        <li><a href="{{ talk.slides }}">Read the slides</a></li>
+                    {% endif %}
+                    {% if talk.blogpost %}
+                        <li><a href="{{ talk.blogpost }}">Read the blog post</a></li>
+                    {% endif %}
+                    {% if talk.code %}
+                        <li><a href="{{ talk.code }}">See the code</a></li>
+                    {% endif %}
+                </ul>
+            {% else %}
+                <p><em>(Unfortunately we have no slides or video for this talk)</em></p>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+</article>

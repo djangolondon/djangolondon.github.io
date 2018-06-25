@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <p>{{ site.description }}</p>
+
+    <h2>Links</h2>
+
+    <p>Visit us at:</p>
+
+    <ul>
+        <li><a href="http://www.meetup.com/The-London-Django-Meetup-Group/">Meetup.com</a></li>
+        <li><a href="https://skillsmatter.com/groups/10546-london-django-meetup-group">Skills Matter</a></li>
+        <li><a href="https://londondjangomeetup.herokuapp.com/">Slack</a></li>
+        <li><a href="https://github.com/djangolondon/">Github</a></li>
+    </ul>
+
+    <h2>Past Meetups</h2>
+
+    <ul>
+    {% assign sorted_meetups = site.meetups | sort: 'date' | reverse %}
+    {% for meetup in sorted_meetups %}
+        <li>
+            <a href="{{ meetup.url }}">
+                {{ meetup.title }} - {{ meetup.date | date: "%-d %B %Y" }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+
+    <h2>Code of Conduct</h2>
+
+    <p>Our meetups are governed by a <a href="{{ site.baseurl }}/code-of-conduct/">Code of Conduct</a>. Please take a few minutes to read it.</p>
+
+</div>
