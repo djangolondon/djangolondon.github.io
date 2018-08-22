@@ -49,7 +49,7 @@ session.
 We ask everyone to be aware that we will not tolerate intimidation, harassment,
 or any abusive, discriminatory, or derogatory behaviour by anyone at any event,
 or online. Complaints can be made to the [meetup
-organisers](http://www.meetup.com/The-London-Django-Meetup-Group/members/?op=leaders)
+organisers](http://www.meetup.com/djangolondon/members/?op=leaders)
 either face to face at a meetup, or via the Meetup website. Any complaints
 made to event organisers will remain confidential, be taken seriously, and
 be treated appropriately with discretion. Should an event organiser consider
@@ -90,9 +90,9 @@ examples of behaviours which are not appropriate:
 
 If you're not sure about anything you've just read please contact the
 [Meetup
-organisers](http://www.meetup.com/The-London-Django-Meetup-Group/members/?op=leaders).
+organisers](http://www.meetup.com/djangolondon/members/?op=leaders).
 You can message us through the [Meetup
-page](http://www.meetup.com/The-London-Django-Meetup-Group/).
+page](http://www.meetup.com/djangolondon/).
 
 ## Credits
 
