@@ -23,7 +23,9 @@ that should get you set up.
 
 Make sure you've got the latest version of Docker and docker-compose.
 
-Just run `docker-compose up -d` to get started
+Just run `docker-compose up -d` to get started.
+
+The app will be served at `http://127.0.0.1:4000/`, the slides for the meetup will be at `/organizers/2018-06-25/`.
 
 ## Auto-build on save and live-reload
 
