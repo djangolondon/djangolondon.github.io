@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="22" height="22" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" source="tilesets/Gather Public Inside 0.x.tsx"/>
+ <tileset firstgid="929" source="tilesets/Gather University 0.x.tsx"/>
+ <tileset firstgid="1393" source="tilesets/pony.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="22" height="22">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCQBvUDAMQDzwIAYLwCAADPAgAAxwIAYOsCAGDZAgAA6wIAAOzkAgBgIgAAAOQCAKDHIdMD6wIAwOTrzwIAwMfPAgCgJKAB1yRL7RmAgxULPCHZ4haNhhOjaWAanAbRQFqQDqSBaGBAvw+2y5ShBnTdqrg36E/YKDtgjMg39wigmqPNDw==
+  </data>
+ </layer>
+ <layer id="3" name="carpets" width="22" height="22">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCQBv0DAEKGDxPAQQJvxHpdejW9OQvAIgCAmcED4nyQizo38ho6gHyYHpCbGLoo04sEP+eknBvycjw/Rg+QGyeHnAQvRi8aG6ggnohcelACGZUtBhD+URLkqPz/6CFoFreXjfEp3KZfD4ZfnX/3/6PlHdB3rIdwG4NudwAxLuPxXh1LNwc=
+  </data>
+ </layer>
+ <layer id="6" name="ponies" width="22" height="22">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCQBqUDAMIHExpwrUUAYANgA2AD0CTZTXaT+f//////f60DH5s8yYs8yBqP8RZP8RIPscMzvMIjvMETvMCuZ73qUW960qD3POc1j3nLVR5lD8cBLjoMIIADM4wDASrgSykTbU4arpLwK5GEldSeh5yRmIpyYnJ3arQB
+  </data>
+ </layer>
+ <layer id="2" name="furniture" width="22" height="22">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCQBqUEAHIIFh5wD4IAD6BrM9kzTh01hAR11BAS1FFDOH9PRJxBeR6f53md1FE/VR7lTUwvnbTFU7zEqxpd9NALwHmbp8k8zLtIXuRBHs/xGkO8wzO8AkErPMIbvARjzHIZoNACi92oAwADC0bXUVRphAQy05usXnczLn9kgXnYgBU0QSJZ6E1Wr7v5Eqkbwvj82BZhMQyqYAU=
+  </data>
+ </layer>
+ <layer id="4" name="plants" width="22" height="22">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCQBj0CAIAAAKAEoQShBL0EvgS+vqC9GKBA7QHQgiIKHgM5FHo40sHY3zSwiUYPttFowgb6ID1E7/Q3TTTNyxt+2Jt5m8brG3ZYO5UU
+  </data>
+ </layer>
+ <layer id="5" name="plants2" width="22" height="22">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCQBk0AABAAAAEAi/8ACw==
+  </data>
+ </layer>
+</map>
