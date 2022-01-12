@@ -14,9 +14,8 @@ opening an Issue.
 
 ## Running the site locally
 
-This site is built with Jekyll and hosted on Github Pages. They have [an
-excellent guide for testing the site locally]
-(https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+This site is built with Jekyll and hosted on Github Pages. They have
+[an excellent guide for testing the site locally](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 that should get you set up.
 
 ## Quickly fire up project with Docker
