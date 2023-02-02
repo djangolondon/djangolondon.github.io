@@ -5,4 +5,4 @@ gem 'guard-jekyll-plus'
 gem 'guard-livereload'
 
 # Temporary install for: https://github.com/jekyll/jekyll/issues/8523
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
