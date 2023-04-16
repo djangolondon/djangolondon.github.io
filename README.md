@@ -38,6 +38,22 @@ Live-reload is supported in this project, this means that, as the project is upd
 
 To enable live-reloading in your browser [install the appropriate extension for your browser](http://livereload.com/extensions/#installing-sections)
 
+## Organizer Covers
+
+We create cover images on Mastodon / Twitter to promote the event.
+Here’s how.
+
+**First,** duplicate a past cover file, like `organizers/2023-04-12-cover.html`, for the new event.
+
+**Second,** edit the new cover file to use the correct details: date, talk titles, speaker names, and speaker images.
+
+**Third,** open the cover file in your browser at e.g. http://localhost:4000/organizers/2023-04-12-cover/
+
+**Fourth,** resize your browser to 1500 x 500.
+On Firefox you can use the rulers button at the top right of the devtools panel to get this perfect.
+
+**Fifth,** use your browser’s screenshot tool to capture the image.
+
 ## YouTube videos
 
 We record our online meetups with Zoom and upload the talks to our YouTube channel.
