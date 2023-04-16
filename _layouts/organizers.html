@@ -47,8 +47,8 @@
             // Full list of configuration options available at:
             // https://github.com/hakimel/reveal.js#configuration
             Reveal.initialize({
-                controls: true,
-                progress: true,
+                controls: {% if page.disable_revealjs_chrome %}false{% else %}true{% endif %},
+                progress: {% if page.disable_revealjs_chrome %}false{% else %}true{% endif %},
                 history: true,
                 center: true,
 
