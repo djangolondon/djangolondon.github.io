@@ -49,7 +49,7 @@ Here’s how.
 
 **Third,** open the cover file in your browser at e.g. http://localhost:4000/organizers/2023-04-12-cover/
 
-**Fourth,** resize your browser to 1500 x 500.
+**Fourth,** resize your browser to 960 x 540.
 On Firefox you can use the rulers button at the top right of the devtools panel to get this perfect.
 
 **Fifth,** use your browser’s screenshot tool to capture the image.
