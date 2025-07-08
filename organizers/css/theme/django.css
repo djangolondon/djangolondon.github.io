@@ -11,7 +11,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-color: #0B2318; }
+  background-color: #0B2318;
+  text-wrap: pretty;
+}
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -43,7 +45,9 @@ body {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   line-height: 1.2;
   letter-spacing: normal;
-  text-shadow: none; }
+  text-shadow: none;
+  text-wrap: balance;
+}
 
 .reveal h1 {
   font-size: 2.5em; }
